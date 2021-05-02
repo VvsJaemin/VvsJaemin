@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Java-ff3000?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6db33f?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Amazon AWS-003545?style=flat-square&logo=Amazon AWS&logoColor=white"/>&nbsp
 </p>
 
 <p align="center">
