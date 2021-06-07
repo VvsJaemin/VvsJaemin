@@ -15,4 +15,4 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp 
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VvsJaemin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VvsJaemin)](https://github.com/anuraghazra/github-readme-stats)
