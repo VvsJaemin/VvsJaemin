@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6db33f?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MySQL-003545?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Oracle-003545?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-ff3000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
 </p>
 
 <p align="center">
