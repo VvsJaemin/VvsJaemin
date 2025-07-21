@@ -4,7 +4,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ff3000?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=Hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
   <img src="https://img.shields.io/badge/QueryDSL-0096D6?style=flat-square&logo=QueryDSL&logoColor=white"/>
